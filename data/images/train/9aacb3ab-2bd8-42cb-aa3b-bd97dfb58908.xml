@@ -1,0 +1,1 @@
+<annotation><folder>boarddetection</folder><filename>9aacb3ab-2bd8-42cb-aa3b-bd97dfb58908.jpg</filename><size><width>708</width><height>944</height><depth>3</depth></size><object><name>STM32F4-DISC</name><pose>Unspecified</pose><truncated>0</truncated><difficult>0</difficult><bndbox><xmin>2</xmin><ymin>292</ymin><xmax>708</xmax><ymax>787</ymax></bndbox></object></annotation>

@@ -1,0 +1,1 @@
+<annotation><folder>boarddetection</folder><filename>4aa5bd90-ad56-4dfa-9088-7bd635d030b6.jpg</filename><size><width>708</width><height>944</height><depth>3</depth></size><object><name>Ethernet-W5500</name><pose>Unspecified</pose><truncated>0</truncated><difficult>0</difficult><bndbox><xmin>123</xmin><ymin>212</ymin><xmax>414</xmax><ymax>799</ymax></bndbox></object></annotation>

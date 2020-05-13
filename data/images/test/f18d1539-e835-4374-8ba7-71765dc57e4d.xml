@@ -1,0 +1,1 @@
+<annotation><folder>boarddetection</folder><filename>f18d1539-e835-4374-8ba7-71765dc57e4d.jpg</filename><size><width>225</width><height>225</height><depth>3</depth></size><object><name>ESP32-WROOM</name><pose>Unspecified</pose><truncated>0</truncated><difficult>0</difficult><bndbox><xmin>22</xmin><ymin>48</ymin><xmax>202</xmax><ymax>174</ymax></bndbox></object></annotation>
